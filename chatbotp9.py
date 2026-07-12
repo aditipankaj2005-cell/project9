@@ -27,7 +27,8 @@ st.set_page_config(
 )
 
 st.title("🤖 Samsung Washing Machine Chatbot")
-st.markdown("Ask anything about Samsung Washing Machine modes.")
+st.markdown("Ask anything about Samsung Washing Machine modes."
+           "Project by Aditi Srivastava with Roll no.2401221550005")
 
 # -----------------------------------
 # Sidebar
