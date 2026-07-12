@@ -7,7 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1ZOT7msYmccn_za2EpoZpG-8lvr468fI_
 """
 
-!pip install streamlit
 !pip install -q langchain-openai langchain-core langchain-community langchain-chroma langchain-text-splitters unstructured chromadb tiktoken lxml beautifulsoup4 streamlit
 import streamlit as st
 from langchain_core.prompts import ChatPromptTemplate
